@@ -11,7 +11,7 @@
   "dependencies": {
     "@anthropic-ai/sdk": "^0.32.1",
     "@atlaskit/pragmatic-drag-and-drop": "^1.1.7",
-    "@clerk/nextjs": "^4.29.12",
+    "@clerk/nextjs": "^6.21.0",
     "@clerk/themes": "^1.7.12",
     "@codemirror/lang-javascript": "^6.2.2",
     "@hookform/resolvers": "^3.9.1",
