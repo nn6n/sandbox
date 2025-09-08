@@ -12,7 +12,7 @@
 		"db:studio": "cross-env LOCAL_DB_PATH=$(find .wrangler/state/v3/d1/miniflare-D1DatabaseObject -type f -name '*.sqlite' -print -quit) drizzle-kit studio"
 	},
 	"devDependencies": {
-		"@cloudflare/vitest-pool-workers": "^0.1.0",
+		"@cloudflare/vitest-pool-workers": "^0.8.69",
 		"@cloudflare/workers-types": "^4.20240405.0",
 		"@types/itty-router-extras": "^0.4.3",
 		"drizzle-kit": "^0.20.17",
